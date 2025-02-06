@@ -10,10 +10,7 @@
 #include "SimplestOT.h"
 #include "MasnyRindal.h"
 #include "McRosRoyTwist.h"
-
-#if defined ENABLE_MR_KYBER
 #include "MasnyRindalKyber.h"
-#endif
 
 #include "McRosRoy.h"
 #include "libOTe/Tools/Popf/EKEPopf.h"
